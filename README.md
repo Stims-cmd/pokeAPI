@@ -5,12 +5,12 @@ Ce projet est une API Flask qui récupère les données d'un Pokémon depuis la 
 ---
 
 ## Contenu du projet
-pokeAPI/
-- app.py # Code principal de l'API
-- Dockerfile # Instructions pour Docker
-- index.html # Page d'affichage de l'API
-- README # Explication du projet
-- requirements.txt # Dépendances Python
+`pokeAPI/`
+- `app.py`   ->  Code principal de l'API
+- `Dockerfile`   ->  Instructions pour Docker
+- `index.html`   ->  Page d'affichage de l'API
+- `README`   ->  Explication du projet
+- `requirements.txt`   ->  Dépendances Python
 
 ---
 
