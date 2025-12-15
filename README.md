@@ -28,15 +28,19 @@ pokeAPI/
 ```bash
 git clone https://github.com/Stims-cmd/pokeAPI
 cd pokeAPI
+```
 
 ### 2. Cloner l'image Docker
 
+```bash
 docker build -t pokemon-api .
+```
 
 ### 3. Lancer le container Docker
 
+```bash
 docker run -p 5000:5000 pokemon-api
-
+```
 
 ## Notes 
 
@@ -44,4 +48,4 @@ L’API sera accessible sur : http://localhost:5000
 
 ## Auteur 
 
-Simon DUCHANAUD 
+- Simon DUCHANAUD 
