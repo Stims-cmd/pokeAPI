@@ -48,4 +48,4 @@ L’API sera accessible sur : http://localhost:5000
 
 ## Auteur 
 
-- Simon DUCHANAUD 
+- [Simon DUCHANAUD](https://www.linkedin.com/in/simon-duchanaud)
